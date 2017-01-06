@@ -1,0 +1,30 @@
+header{
+    background: orange;
+    margin-bottom: 20px;
+}
+
+.row{
+    margin: 20px auto;
+}
+.card {
+    border: 1px solid #ccc;  
+
+}
+
+.card-image{
+max-width: 100%;
+  display: block;
+  margin: 0;
+ 
+}
+
+.card-text {
+ padding: 20px;
+}
+
+.card-text--header{
+    margin:0;
+}
+.card-text--p {
+    margin: .5em 0;
+}
